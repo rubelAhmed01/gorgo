@@ -1,0 +1,415 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+width: 60%;
+
+margin-left: 20%;
+
+/* overflow: hidden; */
+
+margin-right: 20%;
+}
+.header-part{
+
+overflow: hidden;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+nav{
+
+width: 50%;
+
+float: left;
+}
+nav ul{
+
+float: left;
+
+margin-top: 13px;
+
+margin-left: px;
+}
+nav ul li{
+
+list-style: none;
+
+float: left;
+
+margin-right: 15px;
+
+/* text-align: center; */
+
+/* text-decoration: none; */
+}
+nav ul li a{
+
+text-decoration: none;
+
+color: #615F72;
+
+font-weight: 600;
+}
+.purchase{
+    
+float: right;
+    
+margin-top: 12px;
+}
+
+/* minimal part start*/
+.content{
+
+width: 60%;
+
+margin-left: 20%;
+
+overflow: hidden;
+
+margin-top: 100px;
+
+margin-bottom: 200px;
+}
+.left-content{
+
+width: 48%;
+
+float: left;
+
+text-align: left;
+
+margin-top: 10px;
+}
+.left-content h3{
+
+color: #292640;
+
+font-size: 30px;
+}
+.left-content p{
+
+color: #a2a2a2;
+
+font-size: 16px;
+
+margin-top: 20px;
+}
+.right-content{
+
+width: 48%;
+
+float: right;
+
+text-align: right;
+}
+.right-content img{
+
+width: 90%;
+}
+/* minimal part end*/
+
+
+/* demo part start*/
+.demo{
+
+width: 100%;
+
+margin-left: 10%;
+}
+.demo-content{
+
+}
+.demo-content h4{
+
+text-align: center;
+
+color: #1E1D3A;
+
+font-size: 20px;
+
+margin-right: 20%;
+}
+.demo-content p{
+
+text-align: center;
+
+color: #978499;
+
+margin-right: 20%;
+
+margin-top: 10px;
+
+margin-bottom: 10px;
+}
+.demo-img{
+    
+/* margin-left: 5%; */
+    
+margin-bottom: 200px;
+}
+/* demo part end*/
+
+/* feature part start*/
+.feature-content{
+
+width: 60%;
+
+margin-left: 20%;
+
+text-align: center;
+
+margin-right: 20%;
+
+margin-bottom: 50px;
+}
+.feature-content h4{
+
+color: #29253F;
+}
+.feature-content p{
+    
+color: #8090B5;
+    
+margin-top: 10px;
+}
+/* feature part end*/
+
+
+/* service part start*/
+.service-part{
+
+width: 60%;
+
+margin-left: 20%;
+
+overflow: hidden;
+}
+.heart{
+
+width: 28%;
+
+float: left;
+
+/* margin-right: 2%; */
+
+text-align: center;
+
+background-color: #F5F5F5;
+
+padding-left: 5px;
+
+padding-right: 5px;
+
+margin-bottom: 30px;
+}
+.heart img{
+
+/* text-align: center; */
+}
+.heart h6{
+
+color: #4A474A;
+
+font-weight: 900;
+
+font-size: 14px;
+}
+.heart p{
+
+color: #9D9FA0;
+
+/* font-size: 15px; */
+}
+.heart2{
+
+width: 28%;
+
+float: left;
+
+/* margin-right: 10px; */
+
+text-align: center;
+
+background-color: #F5F5F5;
+
+margin-left: 40px;
+
+padding-left: 10px;
+
+padding-right: 10px;
+
+margin-bottom: 30px;
+}
+.heart2 img{
+
+}
+.heart2 h6{
+
+color: #4A474A;
+
+font-weight: 900;
+
+font-size: 14px;
+}
+.heart2 p{
+    
+color: #9D9FA0;
+}
+.heart3{
+
+width: 28%;
+
+float: right;
+
+/* margin-right: 2%; */
+
+text-align: center;
+
+background-color: #F5F5F5;
+
+padding-left: 10px;
+
+padding-right: 10px;
+
+margin-bottom: 30px;
+}
+.heart3 img{
+
+}
+.heart3 h6{
+
+color: #4A474A;
+
+font-weight: 900;
+
+font-size: 14px;
+}
+.heart3 p{
+    
+color: #9D9FA0;
+}
+.heart4{
+
+    width: 28%;
+    
+    float: left;
+    
+    /* margin-right: 2%; */
+    
+    text-align: center;
+    
+    background-color: #F5F5F5;
+    
+    padding-left: 5px;
+    
+    padding-right: 5px;
+    
+    margin-bottom: 10px;
+    }
+    .heart4 img{
+    
+    /* text-align: center; */
+    }
+    .heart4 h6{
+    
+    color: #4A474A;
+    
+    font-weight: 900;
+    
+    font-size: 14px;
+    }
+    .heart4 p{
+    
+    color: #9D9FA0;
+
+}
+.heart5{
+        width: 28%;
+        
+        float: left;
+        
+        /* margin-right: 10px; */
+        
+        text-align: center;
+        
+        background-color: #F5F5F5;
+        
+        margin-left: 40px;
+        
+        padding-left: 10px;
+        
+        padding-right: 10px;
+        
+        margin-bottom: 10px;
+        }
+        .heart5 img{
+        
+        }
+        .heart5 h6{
+        
+        color: #4A474A;
+        
+        font-weight: 900;
+        
+        font-size: 14px;
+        }
+        .heart5 p{
+            
+        color: #9D9FA0;
+}
+.heart6{
+    
+        width: 28%;
+        
+        float: right;
+        
+        /* margin-right: 2%; */
+        
+        text-align: center;
+        
+        background-color: #F5F5F5;
+        
+        padding-left: 10px;
+        
+        padding-right: 10px;
+        
+        margin-bottom: 10px;
+        }
+        .heart6 img{
+        
+        }
+        .heart6 h6{
+        
+        color: #4A474A;
+        
+        font-weight: 900;
+        
+        font-size: 14px;
+        }
+        .heart6 p{
+            
+        color: #9D9FA0;
+        }
+footer{
+    background-color: #292640;
+    height: 150px;
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 30px;
+}
+footer h3{
+    color: #fff;
+    font-size: 20px;
+}
+footer img{
+
+padding-top: 20px;
+}
+
+/* service part end*/
